@@ -1,5 +1,9 @@
-.App {
+/* .App {
   text-align: center;
+} */
+
+.result:hover{
+  background-color: lightgray;
 }
 
 .App-logo {
