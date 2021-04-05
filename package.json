@@ -1,0 +1,11 @@
+{
+  "name": "nutrition_front",
+  "version": "1.0.0",
+  "description": "nutrition project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
